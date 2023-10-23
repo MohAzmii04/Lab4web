@@ -1,8 +1,8 @@
 # Lab4web
 
-Nama : Mohammad Azmi Abdussyukur
+Nama : Syifa Aurellia Rahma
 
-NIM  : 312210109
+NIM  : 312210009
 
 Kelas : TI.22.A1
 
@@ -20,6 +20,117 @@ Kelas : TI.22.A1
 4. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
 
 ## Langkah-langkah praktikum
+**1. Membuat Box Element**
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box Element</title>
+</head>
+<body>
+    <header>
+        <h1>Box Element</h1>
+        <section>
+            <div class="div1">Div 1</div>
+            <div class="div2">Div 2</div>
+            <div class="div3">Div 3</div>
+        </section>
+        <style>
+            div {
+            float:left;
+            padding: 10px;
+            }
+            .div1 {
+            background: red;
+            }
+            .div2 {
+            background: yellow;
+            }
+            .div3 {
+            background: green;
+            }
+            </style>
+    </header>
+</body>
+</html>
+```
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box Element</title>
+</head>
+<body>
+    <header>
+        <h1>Box Element</h1>
+        <section>
+            <div class="div1">Div 1</div>
+            <div class="div2">Div 2</div>
+            <div class="div3">Div 3</div>
+            <div class="div4">Div 4</div>
+        </section>
+        <style>
+            div {
+            float:left;
+            padding: 10px;
+            }
+            .div1 {
+            background: red;
+            }
+            .div2 {
+            background: yellow;
+            }
+            .div3 {
+            background: green;
+            }
+            .div4 {
+            background-color: blue;
+            clear: left;
+            float: none;
+            }
+            </style>
+    </header>
+</body>
+</html>
+```
+<img width="960" alt="bx" src="https://github.com/MohAzmii04/Lab4web/assets/115864496/76946e86-5bd1-4547-b523-ddfbbb392329">
+
+**2. Membuat Layout Sederhana**
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Layout Sederhana</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="container">
+<header>
+  <h1>Layout Sederhana</h1>
+</header>
+<nav>
+  <a href="home.html" class="active">Home</a>
+  <a href="artikel.html">Artikel</a>
+  <a href="about.html">About</a>
+  <a href="kontak.html">Kontak</a>
+</nav>
+<section id="hero"></section>
+<section id="wrapper">
+      <section id="main"></section>
+      <aside id="sidebar"></aside>
+</section>
+<footer>
+    <p>&copy; 2021 - Universitas Pelita Bangsa</p>
+</footer>
+```
+
 
 > - Kemudian tambahkan kode CSS untuk membuat layoutnya :
 ```
@@ -55,8 +166,6 @@ header h1 {
     color: #b5b5b5;
 }
 ```
-
-![7](https://github.com/syifaaurellia/Lab4web/assets/115867244/ed0a5780-d573-4bcc-ac6e-9b929486f6d9)
 
 
 **4. Membuat Navigasi**
@@ -340,7 +449,9 @@ pretium ac.</p>
 }
 ```
 
-![14](https://github.com/syifaaurellia/Lab4web/assets/115867244/b6d48013-1684-4186-ac1f-e821a0f45542)
+![Screenshot (81)](https://github.com/syifaaurellia/Lab4web/assets/115867244/dec4e622-bf82-44d8-8646-cd756442cde8)
+
+
 
 
 **11. Lakukan validasi dokumen HTML dengan mengakses http://validator.w3.org/**
