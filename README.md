@@ -190,7 +190,8 @@ nav a:hover {
 }
 ```
 
-![Uploading hm.png…]()
+<img width="960" alt="hm" src="https://github.com/MohAzmii04/Lab4web/assets/115864496/a2ed59ef-2f83-4560-95ff-f13c11c37f3c">
+
 
 
 
@@ -224,7 +225,7 @@ pretium ac.</p>
     line-height: 25px;
 }
 ```
-![11](https://github.com/syifaaurellia/Lab4web/assets/115867244/b196684c-b45d-4b0b-a438-38c14394de52)
+<img width="960" alt="hm" src="https://github.com/MohAzmii04/Lab4web/assets/115864496/4df93b8f-8458-4658-ba38-3cf2e6fae170">
 
 **6. Mengatur Layout Main dan Sidebar**
 > - Selanjutnya mengatur main content dan sidebar, tambahkan CSS float
@@ -396,7 +397,8 @@ box img {
 }
 ```
 
-![13](https://github.com/syifaaurellia/Lab4web/assets/115867244/df6c3f9a-96cb-4af9-be0a-1795f197ac96)
+<img width="960" alt="Cuplikan layar 2023-10-24 095502" src="https://github.com/MohAzmii04/Lab4web/assets/115864496/955aa35f-4886-467a-bbfb-bc5320b14019">
+
 
 
 **10. Menambahkan Content Artikel**
@@ -629,8 +631,6 @@ pretium ac.</p>
 ```
 
 
-![18](https://github.com/syifaaurellia/Lab4web/assets/115867244/71baaad9-545c-4319-925a-aec0499bc892)
-
-
+<img width="960" alt="kntk" src="https://github.com/MohAzmii04/Lab4web/assets/115864496/4ff146c3-336d-4801-8211-4ea34910affc">
 
 ## Finish, Terima Kasih
