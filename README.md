@@ -1,8 +1,8 @@
 # Lab4web
 
-Nama : Syifa Aurellia Rahma
+Nama : Mohammad Azmi Abdussyukur
 
-NIM  : 312210009
+NIM  : 312210109
 
 Kelas : TI.22.A1
 
@@ -190,7 +190,8 @@ nav a:hover {
 }
 ```
 
-![8](https://github.com/syifaaurellia/Lab4web/assets/115867244/5b6d01de-d852-4877-b6b3-f548e6c84b2f)
+![Uploading hm.png…]()
+
 
 
 **5. Mmebuat Hero Panel**
