@@ -535,8 +535,7 @@ pretium ac.</p>
 ```
 
 
-![17](https://github.com/syifaaurellia/Lab4web/assets/115867244/0d53dd2a-2211-40f1-be47-66e5e891562f)
-
+<img width="960" alt="ab" src="https://github.com/MohAzmii04/Lab4web/assets/115864496/5fff926e-257b-421c-ad30-d9fc8bb79f90">
 
 2. Tambahkan layout untuk menu `Contact` => yang berisi form isian: nama, email, message, dll
 ```
